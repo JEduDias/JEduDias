@@ -4,7 +4,7 @@ I'm **José Eduardo Dias**, but you can call me **Edu**.  👋
 
 - Born in Curitiba, Brazil
 - 💻Systems analyst and developer📱
-- 👷🏾‍♂‍electrician⚡
+- 👷🏾‍♂‍Electrical technician⚡
 - 💙father👶🏻
 - 🎣fisherman🐟
 - 🚴🏽‍♂‍cyclist🚴🏽‍♂‍
