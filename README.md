@@ -22,3 +22,6 @@ I'm **José Eduardo Dias**, but you can call me **Edu**.  👋
 <a target="_blank" href="https://fb.com/Eduardo.S.Dias">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a target="_blank" href="https://www.linkedin.com/in/jose-eduardo-s-dias/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
